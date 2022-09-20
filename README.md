@@ -1,2 +1,2 @@
-# freecodecamp_html_cats
+# freecodecamp_html
 Web Design Curriculum
